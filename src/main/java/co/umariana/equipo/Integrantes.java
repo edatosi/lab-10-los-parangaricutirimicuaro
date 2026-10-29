@@ -26,6 +26,7 @@ public final class Integrantes {
         List<Tarjeta> lista = new ArrayList<>();
 
         lista.add(new Tarjeta("camilopuerres0-code", "Andres Camilo", "Bienvenidos, hoy es un dia muy maraviiloso para todas las personas de este mundo", "#ed0909"));
+        lista.add(new Tarjeta("Joantru", "Joan Trujillo", "Bienvenido, soy joan trujillo me presento", "#504a4d"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
         return lista;
