@@ -16,8 +16,8 @@ import java.util.List;
 public final class Integrantes {
 
     /** Título que muestra la ventana (no es necesario cambiarlos). */
-    public static final String NOMBRE_EQUIPO = "Nuestro equipo";
-    public static final String LEMA = "Una tarjeta por integrante";
+    public static final String NOMBRE_EQUIPO = "Los Parangaricutirimicuaro";
+    public static final String LEMA = "parangaricutirimicuaro los mejores raperos del mundo";
 
     private Integrantes() {
     }
@@ -25,7 +25,7 @@ public final class Integrantes {
     public static List<Tarjeta> tarjetas() {
         List<Tarjeta> lista = new ArrayList<>();
 
-        lista.add(new Tarjeta("cbotina", "Carlos Botina", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#FFD166"));
+        lista.add(new Tarjeta("camilopuerres0-code", "Andres Camilo", "Bienvenidos, hoy es un dia muy maraviiloso para todas las personas de este mundo", "#ed0909"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
         return lista;
