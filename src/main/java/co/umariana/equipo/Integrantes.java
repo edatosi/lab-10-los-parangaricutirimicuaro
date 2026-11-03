@@ -28,6 +28,7 @@ public final class Integrantes {
         lista.add(new Tarjeta("camilopuerres0-code", "Andres Camilo", "Bienvenidos, hoy es un dia muy maraviiloso para todas las personas de este mundo", "#ed0909"));
         lista.add(new Tarjeta("Joantru", "Joan Trujillo", "Bienvenido, soy joan trujillo me presento", "#504a4d"));
         lista.add(new Tarjeta("ErickGuerrero26", "Erick Guerrero", "Bienvenido, soy erick guerrero me presento un fuerte abrazo y feliz navidad", "#508cfa"));
+        lista.add(new Tarjeta("luiortega125-netizen", "Alejandro Ortega", "Bienvenido, soy Alejandro me presento", "#97ce00"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
         return lista;
